@@ -15,7 +15,7 @@ const CardData = observer(({
 }: Props) => {
 
     return (
-        <div className="overflow-hidden bg-white p-3 lg:p-5 rounded-3xl shadow-md hover:shadow-2xl w-full max-w-sm">
+        <div className="overflow-hidden bg-white dark:bg-black dark:border p-3 lg:p-5 rounded-3xl shadow-md hover:shadow-2xl w-full max-w-sm">
             <a
                 href={`/detail?id=${data?.id ?? ''}`}
                 className="flex flex-col space-y-3"
