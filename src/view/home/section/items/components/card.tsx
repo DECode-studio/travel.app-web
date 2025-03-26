@@ -22,7 +22,7 @@ const CardData = observer(({
             >
 
                 <img
-                    src={data.photos[0]}
+                    src={(data.photos ?? []).length > 0 ? (data.photos ?? [])[0] : ''}
                     className="w-full rounded-2xl aspect-[16/10]"
                 />
 
@@ -31,12 +31,12 @@ const CardData = observer(({
                 </span>
 
                 <StarRating
-                    rating={data.rating}
+                    rating={data?.rating ?? 0}
                     size={5}
                 />
 
                 <div className="text-cyan-700 font-semibold text-sm lg:text-lg">
-                    {moneyFormatter(data.price)}
+                    {moneyFormatter(data?.price ?? 0)}
                 </div>
 
             </a>
