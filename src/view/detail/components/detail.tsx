@@ -8,7 +8,7 @@ type Props = {
 const DetailPage = observer(({ controller }: Props) => {
 
     return (
-        <div className=" p-5 border rounded-3xl">
+        <div className="p-5 border rounded-3xl">
 
             <div className="text-gray-900 dark:text-gray-300 text-2xl font-semibold mb-3">
                 {controller.destination?.title ?? ""}

@@ -4,11 +4,11 @@ import Button from "@/layout/components/button/button"
 import { moneyFormatter } from "@/service/formatter/money"
 import { observer } from "mobx-react-lite"
 
-type ComponentsProps = {
+type Props = {
     controller: DetailPageController
 }
 
-const PriceField = observer(({ controller }: ComponentsProps) => {
+const PriceField = observer(({ controller }: Props) => {
 
     return (
         <div className="flex flex-col">

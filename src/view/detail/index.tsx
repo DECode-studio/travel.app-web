@@ -9,6 +9,7 @@ import HeaderPage from "./components/detail"
 import BgColor from "@/layout/components/background/background-color"
 import { LoadDialog } from "@/layout/components/load"
 import Carousel from "./components/slide"
+import ReviewComponent from "./components/review"
 
 const controller = new DetailPageController()
 
@@ -30,6 +31,7 @@ const DetailPage = observer(() => {
                     <div className="relative z-10 flex flex-col w-full lg:flex-row gap-8 lg:gap-8">
                         <div className="w-full xl:w-2/3 space-y-8 xl:space-y-10 xl:pr-3">
                             <HeaderPage controller={controller} />
+                            <ReviewComponent controller={controller} />
                             
                             <div className="lg:hidden">
                                 <ActionBar controller={controller} />
