@@ -17,7 +17,7 @@ const ActionBar = observer(({ controller }: ComponentsProps) => {
 
             <Label
                 icon={<InformationCircleIcon className="text-white h-5 w-5" />}
-                label="Submit your documents today for guaranteed processing completion by right now, and embark on a hassle-free journey! ✈️🌍"
+                label="Order your destiantion right now, and embark on a hassle-free journey! ✈️🌍"
                 labelStyle="text-white text-sm"
                 backgroundColor="bg-cyan-700"
                 clasName="rounded-2xl items-center center-justify"
