@@ -1,0 +1,202 @@
+[
+    {
+        "id_country": "ID",
+        "name": "Indonesia"
+    },
+    {
+        "id_country": "US",
+        "name": "United States"
+    },
+    {
+        "id_country": "GB",
+        "name": "United Kingdom"
+    },
+    {
+        "id_country": "CA",
+        "name": "Canada"
+    },
+    {
+        "id_country": "AU",
+        "name": "Australia"
+    },
+    {
+        "id_country": "DE",
+        "name": "Germany"
+    },
+    {
+        "id_country": "FR",
+        "name": "France"
+    },
+    {
+        "id_country": "JP",
+        "name": "Japan"
+    },
+    {
+        "id_country": "CN",
+        "name": "China"
+    },
+    {
+        "id_country": "IN",
+        "name": "India"
+    },
+    {
+        "id_country": "BR",
+        "name": "Brazil"
+    },
+    {
+        "id_country": "RU",
+        "name": "Russia"
+    },
+    {
+        "id_country": "ZA",
+        "name": "South Africa"
+    },
+    {
+        "id_country": "MX",
+        "name": "Mexico"
+    },
+    {
+        "id_country": "IT",
+        "name": "Italy"
+    },
+    {
+        "id_country": "ES",
+        "name": "Spain"
+    },
+    {
+        "id_country": "KR",
+        "name": "South Korea"
+    },
+    {
+        "id_country": "NL",
+        "name": "Netherlands"
+    },
+    {
+        "id_country": "TR",
+        "name": "Turkey"
+    },
+    {
+        "id_country": "SA",
+        "name": "Saudi Arabia"
+    },
+    {
+        "id_country": "AR",
+        "name": "Argentina"
+    },
+    {
+        "id_country": "CH",
+        "name": "Switzerland"
+    },
+    {
+        "id_country": "SE",
+        "name": "Sweden"
+    },
+    {
+        "id_country": "TH",
+        "name": "Thailand"
+    },
+    {
+        "id_country": "SG",
+        "name": "Singapore"
+    },
+    {
+        "id_country": "MY",
+        "name": "Malaysia"
+    },
+    {
+        "id_country": "PH",
+        "name": "Philippines"
+    },
+    {
+        "id_country": "VN",
+        "name": "Vietnam"
+    },
+    {
+        "id_country": "EG",
+        "name": "Egypt"
+    },
+    {
+        "id_country": "NG",
+        "name": "Nigeria"
+    },
+    {
+        "id_country": "PK",
+        "name": "Pakistan"
+    },
+    {
+        "id_country": "BD",
+        "name": "Bangladesh"
+    },
+    {
+        "id_country": "CO",
+        "name": "Colombia"
+    },
+    {
+        "id_country": "PL",
+        "name": "Poland"
+    },
+    {
+        "id_country": "BE",
+        "name": "Belgium"
+    },
+    {
+        "id_country": "AT",
+        "name": "Austria"
+    },
+    {
+        "id_country": "NO",
+        "name": "Norway"
+    },
+    {
+        "id_country": "FI",
+        "name": "Finland"
+    },
+    {
+        "id_country": "DK",
+        "name": "Denmark"
+    },
+    {
+        "id_country": "NZ",
+        "name": "New Zealand"
+    },
+    {
+        "id_country": "GR",
+        "name": "Greece"
+    },
+    {
+        "id_country": "PT",
+        "name": "Portugal"
+    },
+    {
+        "id_country": "HU",
+        "name": "Hungary"
+    },
+    {
+        "id_country": "CZ",
+        "name": "Czech Republic"
+    },
+    {
+        "id_country": "RO",
+        "name": "Romania"
+    },
+    {
+        "id_country": "UA",
+        "name": "Ukraine"
+    },
+    {
+        "id_country": "IL",
+        "name": "Israel"
+    },
+    {
+        "id_country": "AE",
+        "name": "United Arab Emirates"
+    },
+    {
+        "id_country": "IR",
+        "name": "Iran"
+    },
+    {
+        "id_country": "CL",
+        "name": "Chile"
+    }
+]

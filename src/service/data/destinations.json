@@ -1,0 +1,271 @@
+[
+    {
+        "id": 1,
+        "title": "Bali Island Getaway",
+        "summary": "Experience the breathtaking beaches, vibrant culture, and serene temples of Bali in a luxurious getaway.",
+        "photos": [
+            "https://international.unud.ac.id/protected/storage/file_summernote/4a0885ebc3c02b217cbf6c079eca6b37.jpg",
+            "https://www.pelago.com/img/destinations/bali/0619-0941_bali-xlarge.webp",
+            "https://awsimages.detik.net.id/community/media/visual/2023/07/19/ilustrasi-pulau-bali_169.jpeg?w=1200"
+        ],
+        "rating": 4.8,
+        "reviews": [
+            {
+                "user": "John Doe",
+                "comment": "Absolutely loved the experience! The beach was stunning and the service was top-notch.",
+                "rating": 5
+            },
+            {
+                "user": "Emily Smith",
+                "comment": "Great trip! The itinerary was well-planned, but the hotel could have been better.",
+                "rating": 4.5
+            }
+        ],
+        "include": [
+            "Round-trip airfare",
+            "4-star hotel accommodation",
+            "Daily breakfast",
+            "Island tours",
+            "Airport transfers"
+        ],
+        "exclude": [
+            "Personal expenses",
+            "Travel insurance",
+            "Lunch and dinner"
+        ],
+        "terms_conditions": "Bookings are non-refundable within 7 days of departure. Prices may vary based on seasonal demand.",
+        "price": 850000,
+        "currency": "IDR",
+        "pax": {
+            "min": 1,
+            "max": 10
+        }
+    },
+    {
+        "id": 2,
+        "title": "Paris Romantic Escape",
+        "summary": "Enjoy a romantic trip to the City of Love, featuring Eiffel Tower views, fine dining, and cultural exploration.",
+        "photos": [
+            "https://img.static-af.com/transform/45cb9a13-b167-4842-8ea8-05d0cc7a4d04/",
+            "https://upload.wikimedia.org/wikipedia/commons/8/84/Eiffel_Tower_and_Seine_River.jpg",
+            "https://asset.kompas.com/crops/n9F0B37RWI3-C81VJcWuExpi9KE=/0x0:1920x1280/1200x800/data/photo/2023/01/20/63ca6b24718c2.jpg"
+        ],
+        "rating": 4.9,
+        "reviews": [
+            {
+                "user": "Michael Brown",
+                "comment": "Paris is magical! The food, the sights, everything was perfect.",
+                "rating": 5
+            },
+            {
+                "user": "Sophia Williams",
+                "comment": "Loved the guided tour, but the weather was a bit rainy.",
+                "rating": 4.7
+            }
+        ],
+        "include": [
+            "5-star hotel stay",
+            "Guided city tour",
+            "Seine River cruise",
+            "Daily breakfast and dinner"
+        ],
+        "exclude": [
+            "Flights",
+            "Personal expenses",
+            "Travel insurance"
+        ],
+        "terms_conditions": "Bookings must be made at least 14 days in advance. Cancellation fees apply within 10 days of departure.",
+        "price": 1200000,
+        "currency": "IDR",
+        "pax": {
+            "min": 2,
+            "max": 6
+        }
+    },
+    {
+        "id": 3,
+        "title": "Tokyo Adventure Tour",
+        "summary": "Discover the perfect blend of tradition and modernity in Tokyo with this action-packed travel package.",
+        "photos": [
+            "https://plus.unsplash.com/premium_photo-1661914240950-b0124f20a5c1?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://plus.unsplash.com/premium_photo-1661902398022-762e88ff3f82?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "https://images.unsplash.com/photo-1557409518-691ebcd96038?q=80&w=3540&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        ],
+        "rating": 4.7,
+        "reviews": [
+            {
+                "user": "David Lee",
+                "comment": "An amazing experience! The food tours were a highlight.",
+                "rating": 5
+            },
+            {
+                "user": "Anna Kim",
+                "comment": "Great itinerary but a bit fast-paced. Would love more free time.",
+                "rating": 4.5
+            }
+        ],
+        "include": [
+            "Round-trip airfare",
+            "3-star hotel accommodation",
+            "Full-day city tour",
+            "Shinkansen ride experience"
+        ],
+        "exclude": [
+            "Personal expenses",
+            "Meals not mentioned",
+            "Visa fees"
+        ],
+        "terms_conditions": "Non-refundable within 5 days of departure. Prices are subject to change based on availability.",
+        "price": 950000,
+        "currency": "IDR",
+        "pax": {
+            "min": 1,
+            "max": 8
+        }
+    },
+    {
+        "id": 4,
+        "title": "Swiss Alps Winter Wonderland",
+        "summary": "Enjoy breathtaking snow-capped mountains, skiing, and cozy cabins in the Swiss Alps.",
+        "photos": [
+            "https://ik.imagekit.io/tvlk/blog/2024/07/kE2n04yo-shutterstock_2341228705.jpg",
+            "https://blog.antavaya.com/wp-content/uploads/2021/12/1-Jungfraujoch-The-Top-of-Europe-Tempat-Wisata-di-Swiss.jpg",
+            "https://travelwifi.id/wp-content/uploads/2022/12/10.-10-Rekomendasi-Wisata-di-Swiss-yang-Wajib-Dikunjungi.jpeg"
+        ],
+        "rating": 4.9,
+        "reviews": [],
+        "include": [
+            "Luxury ski resort stay",
+            "Ski equipment rental",
+            "Daily breakfast & dinner"
+        ],
+        "exclude": [
+            "Flights",
+            "Personal expenses",
+            "Ski lessons"
+        ],
+        "terms_conditions": "Booking must be made 30 days in advance. Non-refundable after confirmation.",
+        "price": 1800000,
+        "currency": "IDR",
+        "pax": {
+            "min": 2,
+            "max": 6
+        }
+    },
+    {
+        "id": 5,
+        "title": "Santorini Dream Vacation",
+        "summary": "Relax and enjoy the stunning white-washed buildings and deep blue seas of Santorini.",
+        "photos": [
+            "https://cdn.pixabay.com/photo/2022/01/30/20/51/volcano-6982236_640.jpg",
+            "https://s.france24.com/media/display/d3f7bcc2-e498-11ef-a711-005056a90284/w:1280/p:16x9/000_36X87YT.jpg",
+            "https://app.greenhabitat.at/media/destinations/santorin/media1695558318.022709.jpg"
+        ],
+        "rating": 4.8,
+        "reviews": [],
+        "include": [
+            "5-star hotel stay",
+            "Private sunset cruise",
+            "Daily breakfast"
+        ],
+        "exclude": [
+            "Flights",
+            "Lunch & Dinner",
+            "Personal shopping"
+        ],
+        "terms_conditions": "Bookings are subject to availability and may vary based on season.",
+        "price": 1400000,
+        "currency": "IDR",
+        "pax": {
+            "min": 2,
+            "max": 8
+        }
+    },
+    {
+        "id": 6,
+        "title": "Great Wall of China Expedition",
+        "summary": "Walk along the ancient Great Wall and explore China's rich history and culture.",
+        "photos": [
+            "https://cdn.britannica.com/89/179589-138-3EE27C94/Overview-Great-Wall-of-China.jpg?w=800&h=450&c=crop",
+            "https://www.travelandleisure.com/thmb/b2-ee45Q1DEjuzOa51XLhJ7Rfmc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/great-wall-china-tourists-GWOC0417-10bddbf0783644c386178f62117b2132.jpg",
+            "https://www.state.gov/wp-content/uploads/2023/07/shutterstock_245773270v2.jpg"
+        ],
+        "rating": 4.7,
+        "reviews": [],
+        "include": [
+            "Guided tour of the Great Wall",
+            "Hotel stay",
+            "Daily breakfast"
+        ],
+        "exclude": [
+            "Flights",
+            "Lunch & Dinner",
+            "Visa fees"
+        ],
+        "terms_conditions": "Bookings must be made at least 14 days in advance.",
+        "price": 1100000,
+        "currency": "IDR",
+        "pax": {
+            "min": 1,
+            "max": 12
+        }
+    },
+    {
+        "id": 7,
+        "title": "Dubai Luxury Escape",
+        "summary": "Enjoy the opulence of Dubai with its skyscrapers, shopping, and desert safaris.",
+        "photos": [
+            "https://www.blibli.com/friends-backend/wp-content/uploads/2023/10/B900649-Cover-wisata-dubai-scaled.jpg",
+            "https://cdn.britannica.com/15/189715-050-4310222B/Dubai-United-Arab-Emirates-Burj-Khalifa-top.jpg",
+            "https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_4:3,w_3840,g_auto/f_auto/q_auto/v1/shutterstock_2414539851_ss_non-editorial_dcx0bm?_a=BAVAZGAP0"
+        ],
+        "rating": 4.9,
+        "reviews": [],
+        "include": [
+            "Luxury hotel stay",
+            "Desert safari experience",
+            "Dubai city tour"
+        ],
+        "exclude": [
+            "Flights",
+            "Meals",
+            "Personal shopping"
+        ],
+        "terms_conditions": "Non-refundable within 10 days of departure.",
+        "price": 1600000,
+        "currency": "IDR",
+        "pax": {
+            "min": 1,
+            "max": 10
+        }
+    },
+    {
+        "id": 8,
+        "title": "New York City Explorer",
+        "summary": "Explore the vibrant streets of NYC, from Times Square to Central Park.",
+        "photos": [
+            "https://media.cntraveller.com/photos/64f4fc5f663208f83a21af16/master/pass/New%20York%20City_GettyImages-1347979016.jpg",
+            "https://res.cloudinary.com/dtljonz0f/image/upload/c_auto,ar_4:3,w_3840,g_auto/f_auto/q_auto/v1/shutterstock_329662223_ss_non-editorial_3_csm8lw?_a=BAVAZGDX0",
+            "https://media.architecturaldigest.com/photos/5da74823d599ec0008227ea8/16:9/w_2560%2Cc_limit/GettyImages-946087016.jpg"
+        ],
+        "rating": 4.8,
+        "reviews": [],
+        "include": [
+            "Hotel stay",
+            "Broadway show ticket",
+            "City pass for attractions"
+        ],
+        "exclude": [
+            "Flights",
+            "Meals",
+            "Personal expenses"
+        ],
+        "terms_conditions": "Bookings must be made at least 7 days in advance.",
+        "price": 1300000,
+        "currency": "IDR",
+        "pax": {
+            "min": 1,
+            "max": 6
+        }
+    }
+]
